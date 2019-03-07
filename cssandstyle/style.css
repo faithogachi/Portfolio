@@ -1,0 +1,84 @@
+body, html{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	font-size: 16px;
+	font-family: "lato",sans-serif;
+	font-weight: 400;
+	line-height: 1.8em;
+	background-color: #d5d5ff
+}
+.pimg1{
+	background-image:url('../images/2.jpg');
+	min-height: 80%
+}
+.pimg1{
+	background-position: center;
+	position: relative;
+	width: 1752;
+	height: 242;
+	opacity: 0.80;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#education{
+	width: 1125px;
+	background-color: #DDE6E6;
+}
+.left{
+	width: 500px;
+	height: 203px;
+	float: left;
+}
+.right{
+	width:380px;
+	height: 203px;
+	float: right;
+}
+.left-side{
+	width: 500px;
+	height: 203px;
+	float: left;
+}
+.right-side{
+	width: 500px;
+	height: 203px;
+	float: right;
+}
+* {}
+.bars{
+	width: 100%
+	background-color:#DDE6E6;
+}
+.htmlskills{
+	text-align: right;
+	padding: 10px;
+	color: black;
+	width:80%;
+	background-color: #c6538c;
+	height: 18px;
+}
+.Cssskills{
+	text-align: right;
+	padding: 10px;
+	color: black;
+	width:75%;
+	height: 18px;
+	background-color: #c6538c;
+}
+.photoshopskills{
+	text-align: right;
+	padding: 10px;
+	height: 18px;
+	color: black;
+	width:51%;
+	background-color: #c6538c;
+}
+.illustratorskills{
+	text-align: right;
+	padding: 10px;
+	height: 18px;
+	color: black;
+	width:38%;
+	background-color: #c6538c;
+}
